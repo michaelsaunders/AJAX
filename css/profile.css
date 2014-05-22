@@ -1,0 +1,49 @@
+#profile
+{
+    top: 100px;
+    width: 880px;
+    border:2px solid;
+    border-radius:25px;
+    hieght: 100%;
+}
+
+#profileinformation
+{
+    float: left;
+    width: 35%;
+    border:2px solid;
+    border-radius:25px;
+}
+#extraoptions
+{
+    float: left;
+    width: 22%;
+    border:2px solid;
+    border-radius:25px;
+
+}
+#mainphoto
+{
+    width: 40%;
+    float: left;
+    border:2px solid;
+    border-radius:25px;
+}
+#buttons
+{
+    clear: both;
+    border:2px solid;
+    border-radius:25px;
+}
+#selfdescription
+{
+    width: 100%;
+    border:2px solid;
+    border-radius:25px;
+}
+#comments
+{
+    width: 100%;
+    border:2px solid;
+    border-radius:25px;
+}
