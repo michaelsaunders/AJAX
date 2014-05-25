@@ -1,8 +1,6 @@
-/**
- * Created by michaelsaunders on 5/23/2014.
- */
+[
 {
-    "Name": "",
+    "Name": "Sophie",
     "MainPic": "/tempimages/p146078-1.jpg",
     "Age": "27",
     "Zodiac": "Pisces Rabbit",
@@ -10,7 +8,7 @@
     "Height": "170cm",
     "EyeColor": "Blue",
     "HairColor":"Blonde",
-    "Marital Status": "Single",
+    "MaritalStatus": "Single",
     "Children": "None",
     "Religion": "Christian (Orthodox)",
     "Smoker": "No",
@@ -22,3 +20,4 @@
     "Hobbies": "Films",
     "English": "Fair"
 }
+]
